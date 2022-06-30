@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Tribute page</title>
+   <link href="style2.css" rel='stylesheet' type='text/css'>
+</head>
+<body>
+  <header>
+    <div id="effect">
+      <div id="image-in">
+        <h1 class="text-center" id="head1">Sushant Singh Rajput</h1>
+        <h4><center>21 January 1986 – 14 June 2020</center></h4>
+      </div>
+      <i class="fa fa-angle-down fa-2x" aria-hidden="true"></i>
+    </div>
+  </header>
+  <div id="main">
+    <h1 id="title">
+      <b><i><u>Sushant Singh Rajput</u></i></b
+      >
+    </h1>
+   
+    <br />
+    <div id="about">
+      <h2 class="abouther">About</h2>
+      <p>
+        <b>Sushant Singh Rajput was an Indian actor known for his work in Hindi cinema</b>
+        He starred in a number of commercially successful Hindi films such as <b> M.S. Dhoni: The Untold Story, Kedarnath and Chhichhore.</b></p>
+    </div>
+
+    <div id="info">
+      <i class="fa fa-quote-left" aria-hidden="true"></i>
+      <div id="styleinfo">
+        <p>
+            "No matter what you achieve, what you want to aspire to be, or how famous and powerful you become, the most important thing is whether you are excited about each and every moment of your life because of your work and people around you."
+        </p>
+        --- Sushant_Singh_Rajput
+      </div>
+    </div>
+    <br>
+    <section id="tribute-info">
+        <li><strong>1986 </strong>- He was born in Patna in the state of Bihar to Krishna Kumar Singh and Usha Singh</li>
+        <li>His father is a retired technical officer and worked at Bihar State Handloom Corporation in Patna. He was the youngest of five siblings and had the nickname Gulshan.</li>
+        <li> Rajput was reportedly an avid reader who was deeply interested in astrophysics and won the National Olympiad in Physics.</li>
+        <li> He also won three major television awards in the categories of best male actor and most popular actor.  In 2010, he joined the dance reality show Zara Nachke Dikha in its second season as part of the Mast Kalandar Boys team. </li>
+        <li>He starred in a number of commercially successful Hindi films such as <b>M.S. Dhoni: The Untold Story </b>(2016), <b>Kedarnath</b> (2018) and <b>Chhichhore</b> (2019). .</li>
+        <li>Following it were his starring roles as a tourist guide in the romantic comedy <b>Shuddh Desi Romance </b> (2013) and the titular detective in the action thriller Detective Byomkesh Bakshy!</li>
+        <li>Rajput also starred in a number of other films such as the reincarnation drama Raabta (2017), the historical drama <b>Sonchiriya </b>(2019) and the action thriller Drive (2019)</li>
+        <li>Rajput made a special appearance in the police crime drama CID in the character of Byomkesh Bakshy</li>
+        <li>The second biopic that Rajput was to feature in was tentatively titled as <b>Murli: The Unsung Hero</b>, where he would play the role of the disabled jawan turned Paralympics gold medalist Murlikant Petkar</li>
+        <li>Rajput and Kriti Sanon featured in a 2017 T-Series music video of the song named <b>Paas Aao</b>, composed by the duo Armaan and Amaal Mallik.</li>
+        <li>On 2 May 2018, Rajput was inducted as a partner in a company named <b>Innsaei Ventures</b>, which was founded on 26 April 2018; following which he was appointed as one of its three directors, the others being Varun Mathur and Saurabh Mishra</li>
+        <li> In 2010, Sushant won Indian Television Academy Awards for Most Popular Actor</p></li>
+        <li>On 14 June 2020, Rajput, aged 34, was found dead, hanging from the ceiling fan in his home in Bandra, Mumbai</p></li>
+        <li>Due to his contribution to the film industry, he received a Screen Award and was nominated for the Filmfare Awards on three occasions. He appeared on Forbes India's Celebrity 100 list twice since 2017</li>
+    </ul><hr>
+      
+      <p>
+      <div class="col-md-12 text-center">
+        <strong><h4>Awards and Recognitions</h4></strong>
+        <p>1- In 2010, Sushant won Indian Television Academy Awards for Most Popular Actor (Male); BIG Star Entertainment Awards Best Television Actor (Male); Boroplus Gold Awards Best Actor in a Lead Role for 'Pavitra Rishta'. 
+
+          2- In 2011, the actor won another award for 'Pavitra Rishta'-- Kalakar Awards Favourite Actor (Male). 
+          
+          3- In 2014, Sushant Singh Rajput won Screen Awards Best Male Debut for the film 'Kia Po Che!'. 
+          
+          4- In 2017, Sushant won Screen Awards Best Actor (Critics) and Indian Film Festival of Melbourne Best Actor for his film 'M.S Dhoni: The Untold Story'. 
+        </p>
+      </div>
+      </p><hr>
+    
+    
+     <p> 
+    <div class="text-edit col-md-12">
+   <em>Sushant Singh Rajput: Films
+1- Kai Po Che! (2013)
+
+2- Shuddh Desi Romance (2013)
+
+3- PK (2014)
+
+4- Detective Byomkesh Bakshy (2015)
+
+5- M.S. Dhoni: The Untold Story (2016)
+
+6- Raabta (2017)
+
+7- Welcome to New York (2018)
+
+8- Kedarnath (2018)
+
+9- Sonchiriya (2019)
+
+10- Chhichhore (2019)
+
+11- Drive (2019)
+
+12- Dil Bechara (2020)</em>
+      </p>
+      
+      <p><strong><h5>If you have time, you can read more about this incredible human being on this <a href="https://en.wikipedia.org/wiki/Sushant_Singh_Rajput" class="text-primary" target="_blank">Wikipedia</a> entry.</h5></strong> </p>
+      </div>
+      
+    </div>
+     <div class="col-md-2"></div>
+   </div>
+</div>
+</div>
+</h1>
+<div id="img-div">
+  <img src="sushant.jpg" class="img-thumbnail img-edit">
+  
+/>
+<p id="img-caption">
+  <b>Sushant_Singh_Rajput</b>
+</p>
+</div>
+<br />
+
+</body> 
+</html>
